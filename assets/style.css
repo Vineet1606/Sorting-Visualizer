@@ -88,8 +88,7 @@ text {
   background-color: #222;
 
   vertical-align: middle;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding: 10px 30px 10px 30px;
   color: #ccc;
   font-size: 1.2em;
   border: none;
@@ -135,6 +134,8 @@ text {
 
 #change-container {
   display: flex;
+  margin-left: 300px;
+  margin-top: 20px;
 }
 
 #randomize,
