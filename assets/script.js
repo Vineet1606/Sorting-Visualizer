@@ -12,8 +12,8 @@ const MAX = 300;
 const WAITING_TIME = 100;
 
 const UNSORTED = "#3b3b3b";
-const SORTED = "#7d0a99";
-const COMPARE = "crimson";
+const SORTED = "#0fa4af";
+const COMPARE = "#964734";
 const SELECTED = "blueviolet";
 const LEFT = "gold";
 const RIGHT = "orangered";
